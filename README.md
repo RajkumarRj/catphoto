@@ -1,6 +1,6 @@
-# galleryCake
+# catphoto
 
-Hosted link 
+Hosted link  https://rajkumarrj.github.io/catphoto/catphoto/cat.html
 
 <img width="802" alt="image" src="https://github.com/RajkumarRj/catphoto/assets/142428565/1ccbb5d4-e157-4e62-9838-822a0fabb27d">
 <img width="654" alt="image" src="https://github.com/RajkumarRj/catphoto/assets/142428565/e28231ec-7e27-43f0-b529-4e372acbfbf7">
