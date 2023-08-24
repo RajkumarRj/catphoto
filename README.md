@@ -1,14 +1,18 @@
 # galleryCake
 
-Hosted link https://rajkumarrj.github.io/galleryCake/geeksterModule3/first.html
+Hosted link 
 
-<img width="847" alt="image" src="https://github.com/RajkumarRj/galleryCake/assets/142428565/04d09e98-5a1d-429f-9e9a-9ddf3741a41a">
-<img width="849" alt="image" src="https://github.com/RajkumarRj/galleryCake/assets/142428565/4a015055-4134-470a-8929-a4757de652c4">
+<img width="802" alt="image" src="https://github.com/RajkumarRj/catphoto/assets/142428565/1ccbb5d4-e157-4e62-9838-822a0fabb27d">
+<img width="654" alt="image" src="https://github.com/RajkumarRj/catphoto/assets/142428565/e28231ec-7e27-43f0-b529-4e372acbfbf7">
+<img width="784" alt="image" src="https://github.com/RajkumarRj/catphoto/assets/142428565/40bbf344-94ec-4e07-8dac-4165e8d49468">
 
-1.Heading tag for headings h1.
-2.anchor tag <a> for hyperlink.
-3.paragraph tag for description <P>.
-4. skill sets for unordered list <ul>.
-5. for hobbies ordered list.
-6. for porject paragraph tag and left margin.   
-7. for contact details <pre> preformatted tag.
+
+1.for heading heading tag
+2.for link anchor tag used
+3.for image img tag is used
+4. unordered list 
+5.caption will added after image using caption tag
+6. ordered list
+7. for cat table table tag will be used
+7. atlast paragaraph tag is used
+
